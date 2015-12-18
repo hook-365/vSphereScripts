@@ -1,5 +1,6 @@
 # filename getCpuReady.ps1
-# usage .\getCpuReady.ps1 $vCenter $ClusterName #CSVOutput.csv
+# by Anthony Hook
+# usage: .\getCpuReady.ps1 $vCenter $ClusterName #CSVOutput.csv
 # Super informal, assuming you're running this from a PowerCLI shell with modules loaded already
 
 
